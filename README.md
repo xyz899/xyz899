@@ -11,6 +11,3 @@
 
 🔗 Let's build something awesome!
 
-
-![Cover Image](https://i.pinimg.com/originals/8e/90/a4/8e90a4bf877ea8be10a9d5341c1382a3.jpg)
-
