@@ -14,7 +14,5 @@
 
 💡 Always open to new ideas and love to collaborate.
 
-📈 Committed to being successful and continually improving.
-
-🔗 Let's build something awesome!
+🔗 Let's build 
 
