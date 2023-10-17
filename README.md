@@ -41,5 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Winter9998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<img src="https://cdn.swisscows.com/image?url=https%3A%2F%2Fc.tenor.com%2F8CnlmiFa-rAAAAAj%2Feth-ethereum.gif" width="90" height="90" align="center">
 
 ###
