@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">👨‍💻 Blockchain Engineer aiming to revolutionize the industry.<br><br>🚀 Passionate about Space, the Cosmos, and all things beyond our world.<br><br>🎨 fan of Art and Creativity.<br><br>📚 Solidity, Node.js, js/ts, React, Rust, Python, bash and more.<br><br>💰 Focused on solving problems and available for hire ✅.<br><br>🌌 Philosophy enthusiast.<br><br>💡 Always open to new ideas and love to collaborate.</p>
+<p align="left">👨‍💻 Blockchain Engineer. <br><br>🚀 Galaxies, beauty of life and nature.<br><br>🎨 Art and Creativity.<br><br>📚 Solidity, Rust, C++, js/ts, React, Python and more.<br><br>💰 Problem solver.<br><br>🌌 Philosophy enthusiast.<br><br>💡 Open to new ideas and collaboration.</p>
 
 ###
 
