@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">👨‍💻 Blockchain Engineer. <br><br>🚀 Cosmos, life and nature.<br><br> Solidity, Rust, C++, js/ts, React, Python and more.<br><br>📚 Problem solver.<br><br>🌌 Philosophy enthusiast.</p>
+<p align="left">👨‍💻 Blockchain Engineer. <br><br>🚀 Cosmos, life and nature.<br><br> Solidity, Rust, C++, JS/TS, React, Python and more.<br><br>📚 Problem solver.<br><br>🌌 Philosophy enthusiast.</p>
 
 ###
 
