@@ -1,11 +1,12 @@
-
 ###
 
 <h1 align="center">Welcome 👋 </h1>
-
+<h4>My First Account has been deleted because of technical issues</h4>
 ###
 
-<p align="left">👨‍💻 Blockchain Engineer <br><br>🚀 Cosmos, life and nature.<br><br> Solidity, Rust, C++, JS/TS, React, Python and more.<br><br>📚 Problem solver.<br><br>🌌 Philosophy enthusiast.</p>
+<p align="left">👨‍💻 Blockchain Engineer 
+  <br><br>📚 Problem solver.
+  <br><br>🌌 Philosophy and Justice enthusiast.</p>
 
 ###
 
@@ -30,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.swisscows.com/image?url=https%3A%2F%2Flogodix.com%2Flogo%2F700854.png" height="40" alt="rust logo"  />
   <img width="12" />
   <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -41,21 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Winter9998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=winter9998&show_icons=true&locale=en" alt="winter9998" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-###
+<br><br/>
+<blockquote>
+  <p>"Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."</p>
+</blockquote>
