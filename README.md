@@ -2,7 +2,6 @@
 
 <h1 align="center">Welcome 👋 </h1>
 <h4>I'm back into it</h4>
-###
 
 <p align="left">👨‍💻 Blockchain Engineer 
   <br><br>📚 Problem solver.
