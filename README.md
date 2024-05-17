@@ -33,5 +33,5 @@
 </div>
 <br><br/>
 <blockquote>
-  <p>"Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned."</p>
+  <p>"Life is a blend of highs and lows, and each challenge is an opportunity for growth."</p>
 </blockquote>
