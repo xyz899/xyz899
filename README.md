@@ -13,8 +13,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.swisscows.com/image?url=https%3A%2F%2Fwww.solodev.com%2Ffile%2F13466e21-dd2c-11ec-b9ad-0eaef3759f5f%2FHardhat-Logo-Icon.png" height="40" alt="hardhat logo"  />
-  <img width="12" />
   <img src="https://moralis.io/wp-content/uploads/web3wiki/170-foundry/637aed6751438b58df4f23db_vsOHSnFCWFd7F4FKD3WyqVs5OL1bbnm-OYI7HxjENC8.png" height="40" alt="foundry logo"  />
   <img width="12" />
   <img src="https://cdn.swisscows.com/image?url=https%3A%2F%2Fcryptologos.cc%2Flogos%2Funiswap-uni-logo.png" height="40" alt="uniswap logo"  />
